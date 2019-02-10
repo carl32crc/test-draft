@@ -1,6 +1,4 @@
-import dotenv from 'dotenv'
 
-dotenv.load()
 
 const { API_LANDBOT_TOKEN } = process.env
 
