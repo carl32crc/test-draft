@@ -1,0 +1,15 @@
+
+/* CONFIG BASE */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import './_reset-styles';
+
+/*CONTAINERS*/
+@import './../containers/_App';
+
+/* COMPONENTS */
+@import './../components/AlertMessage/_AlertMessage';
+@import './../components/HeaderTable/_HeaderTable';
+@import './../components/Input/_Input';
+@import './../components/Modal/_Modal';
+@import './../components/Spinner/_Spinner';
+
